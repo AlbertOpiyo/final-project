@@ -5,7 +5,7 @@ import psycopg2
 # Connect to MySQL
 connection = mysql.connector.connect(
 	user='root', 
-	password='@Meltomy1996',
+	password='enter your password',
 	host='localhost',
 	database='sales'
 	)
@@ -18,7 +18,7 @@ mycursor = connection.cursor()
 conn = psycopg2.connect(
    database= "sales", 
    user= 'postgres',
-   password= '@Nairobi2003',
+   password= 'Enter your password',
    host= 'localhost', 
    port= "5432"
 )

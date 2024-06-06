@@ -8,7 +8,7 @@ import psycopg2
 
 dsn_hostname = 'localhost'
 dsn_user='postgres'        
-dsn_pwd ='@Nairobi2003'      
+dsn_pwd ='Enter your password'      
 dsn_port ="5432"                
 dsn_database ="postgres"           
 

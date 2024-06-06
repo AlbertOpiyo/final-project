@@ -8,7 +8,7 @@ import mysql.connector
 # You can get the Hostname and Password from the connection information section of Mysql 
 connection = mysql.connector.connect(
 	user='root', 
-	password='@Meltomy1996',
+	password='Enter your password',
 	host='localhost',
 	database='sales'
 	)
